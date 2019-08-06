@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Study Group Topics
+
+1. Hooks motivation
+2. Tour of app
+3. Class vs Function components - ClassyCounter vs. FunkyCounter
+
+4. Use cases:
+
+  - Using state
+  - Doing something when the component is mounted.
+  - Doing something under a certain condition.
+  - Using reducers for complex state.
+  - Using redux for complex state - useSelector.
+
+5. Creating our own hook <--- _lets make sure we get to this_
+
+Bonus performance discussion: When do these things render?
+
 ## Available Scripts
 
 In the project directory, you can run:
